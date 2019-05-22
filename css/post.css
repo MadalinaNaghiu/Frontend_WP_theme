@@ -1,0 +1,53 @@
+.content-area {
+	margin: 45px auto;
+}
+article.hentry {
+	margin-bottom: 65px;
+}
+.article-header {
+	position: relative;
+	margin-bottom: 20px;
+}
+.article-header .post-categories {
+	list-style:none;
+	padding: 0;
+	margin: 0;
+	position: absolute;
+	bottom:23px;
+	left:0;
+}
+.article-header .post-categories li {
+	background: #58b600;
+}
+.article-header .post-categories a {
+	color:#fff;
+	padding: 11px 18px;
+	font-size: 18px;
+	font-weight: 700;
+	display: inline-block;
+	text-decoration: none;
+	line-height: 100%;
+}
+.article-header .post-categories a:hover {
+	text-decoration: none;
+}
+
+.article-title h2 {
+	margin-top: 0
+;	margin-bottom: 20px;
+}
+.article-title h2 a {
+	font-size: 18px;
+	line-height: 140%;
+	color:#000;
+	display: inline-block;
+	min-height: 85px;
+}
+	.article-title h2 a:hover {
+		color:#58b600;
+		text-decoration: none;
+	}
+.article-title .article-meta {
+	color:#b0b0b0;
+	font-size: 14px;
+}
